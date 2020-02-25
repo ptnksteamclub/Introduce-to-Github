@@ -1,2 +1,4 @@
-# Nh-p-m-n-Github
-Dành cho thành viên NKSC
+# Nhập môn Github (lưu hành nội bộ)
+Dành riêng cho thành viên NKSC
+
+Link tới bài viết: 
